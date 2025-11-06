@@ -1,5 +1,5 @@
 import React from 'react'
-import transactions from '../../data/TransactionData.js'
+import transactions from '../../data/transactionData.js'
 
 
 export default function TransactionTable(){
